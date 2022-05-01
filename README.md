@@ -1,5 +1,8 @@
 # Flight-Prediction.github.io
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fSgpVOnOh-V2QjWt6orxIjg5Qo1egYsp?usp=sharing)
+
+## Overview:
+- This project aims at predicting fares for a flight based on fetaures like Source, Destination, Dates of Travel, Number of Stops, etc.
 ## Built using:
 - [Scikit Learn: ](https://scikit-learn.org/stable/) ML Library used
 - [TensorFlow Keras: ](https://www.tensorflow.org/api_docs/python/tf/keras) ML Libraries used
